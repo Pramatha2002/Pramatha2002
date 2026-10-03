@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B5E7B&center=true&vCenter=true&width=700&lines=Turning+data+into+meaningful+insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Data+Analysis+%7C+Bioinformatics" alt="Typing animation"/>
 </div>
 ---
+
 ### 👋 About Me
 
 I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioinformatics background. I turn raw data into clear insights and dashboards.
