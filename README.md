@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm PRAMATHA M C</h1>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=prmatha2002&style=flat-square&color=1B5E7B" alt="Profile views"/>
 </div>
 
