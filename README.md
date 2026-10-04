@@ -15,7 +15,7 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 
 - **From:** India
 - **B.Tech Biotechnology Graduate**
-- Hands-on experience with **Microsoft Excel, SQL, Power BI, Python, NumPy, Pandas, Matplotlib & Tableau**
+- Hands-on experience with **Microsoft Excel, SQL, Power BI, R , Python, NumPy, Pandas, Matplotlib & Tableau**
 - Currently learning and exploring **Machine Learning, Natural Language Processing (NLP) & Sentiment Analysis**
 - Interested in applying **data-driven approaches to biotechnology and healthcare problems**
 - Always learning, building projects, and improving my analytical skills
