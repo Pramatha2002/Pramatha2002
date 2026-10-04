@@ -43,6 +43,8 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL-1B5E7B?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-0F2230?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1B5E7B?style=for-the-badge)
