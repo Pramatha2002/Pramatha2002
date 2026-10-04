@@ -1,6 +1,8 @@
-<h1 align="center">PRAMATHA M C</h1>
+<h1> Hi 👋, I'm PRAMATHA M C</h1>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prmatha2002&style=flat-square&color=1B5E7B" alt="Profile views"/>
+</div>
 
 ### 👋 About Me
 
@@ -13,35 +15,42 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 
 - **From:** India
 - **B.Tech Biotechnology Graduate**
--  Hands-on experience with **Microsoft Excel, SQL, Power BI, Python, NumPy, Pandas, Matplotlib & Tableau**
--  I enjoy working with data, finding meaningful insights, creating dashboards, and solving real-world business and healthcare-related problems
--  Currently learning and exploring **Machine Learning, Natural Language Processing (NLP) & Sentiment Analysis**
--  Interested in applying **data-driven approaches to biotechnology and healthcare problems**
--  Always learning, building projects, and improving my analytical skills
+- Hands-on experience with **Microsoft Excel, SQL, Power BI, Python, NumPy, Pandas, Matplotlib & Tableau**
+- Currently learning and exploring **Machine Learning, Natural Language Processing (NLP) & Sentiment Analysis**
+- Interested in applying **data-driven approaches to biotechnology and healthcare problems**
+- Always learning, building projects, and improving my analytical skills
 
 </details>
+
+---
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramatha-m-c)
+[![Email](https://img.shields.io/badge/Email-1B5E7B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcpramatha@gmail.com)
+
+</div>
 
 ---
 
 ### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="excel logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powerbi" height="40" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tableau" height="40" alt="tableau logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide" height="40" alt="rstudio logo" />
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-1B5E7B?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0F2230?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1B5E7B?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-0F2230?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
+
 ---
 
 ### 📂 Featured Projects
@@ -54,21 +63,3 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prmatha2002&show_icons=true&hide_border=true&bg_color=0F2230&title_color=7CC4E8&icon_color=1B5E7B&text_color=F2F7FA" height="150"/>
-
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramatha-m-c)
-[![Email](https://img.shields.io/badge/Email-1B5E7B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcpramatha@gmail.com)
-
-</div>
