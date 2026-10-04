@@ -62,11 +62,11 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 
 ### 📂 Featured Projects
 
-| Project | Tools | Short Description |
-|---|---|---|
-| [**Project 1**](https://github.com/prmatha2002/repo-name-1) | `Tool 1` `Tool 2` | Short description |
-| [**Project 2**](https://github.com/prmatha2002/repo-name-2) | `Tool 1` `Tool 2` | Short description |
-| [**Project 3**](https://github.com/prmatha2002/repo-name-3) | `Tool 1` `Tool 2` | Short description |
+| Project  | Short Description |
+|---|---|
+| [**Gene Expression & Disease Relationship Analysis**](https://github.com/Pramatha2002/Gene-Expression-And-Disease-Relationship-Analysis) | Analysis of gene expression and its relationship with disease status, smoking status, and treatment response. |
+| [**Project 2**](https://github.com/prmatha2002/repo-name-2) | Short description |
+| [**Project 3**](https://github.com/prmatha2002/repo-name-3) | Short description |
 
 ---
 
