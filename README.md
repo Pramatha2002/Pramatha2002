@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=prmatha2002&style=flat-square&color=1B5E7B" alt="Profile views"/>
 </div>
 
-### 👋 About Me
+### About Me
 
 I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioinformatics background. I turn raw data into clear insights and dashboards.
 
@@ -66,7 +66,7 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 |---|---|
 | [**Gene Expression & Disease Relationship Analysis**](https://github.com/Pramatha2002/Gene-Expression-And-Disease-Relationship-Analysis) | Analysis of gene expression and its relationship with disease status, smoking status, and treatment response. |
 | [**Hospital Management Data Analysis**](https://github.com/Pramatha2002/Hospital-Management-Analysis) | SQL and Excel analysis of hospital appointments, treatments and billing |
-| [**Project 3**](https://github.com/prmatha2002/repo-name-3) | Short description |
+| [**Breast-cancer-classification-ML**](https://github.com/Pramatha2002/Breast-Cancer-Classification-ML) | Breast cancer classification using Logistic Regression, Decision Tree, and Random Forest with Python. |
 
 ---
 
