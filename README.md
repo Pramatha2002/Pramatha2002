@@ -67,6 +67,7 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 | [**Gene Expression & Disease Relationship Analysis**](https://github.com/Pramatha2002/Gene-Expression-And-Disease-Relationship-Analysis) | Analysis of gene expression and its relationship with disease status, smoking status, and treatment response. |
 | [**Hospital Management Data Analysis**](https://github.com/Pramatha2002/Hospital-Management-Analysis) | SQL and Excel analysis of hospital appointments, treatments and billing |
 | [**Breast-cancer-classification-ML**](https://github.com/Pramatha2002/Breast-Cancer-Classification-ML) | Breast cancer classification using Logistic Regression, Decision Tree, and Random Forest with Python. |
-
+| [**Global-Tech-Layoffs-Analysis**](https://github.com/Pramatha2002/Global-Tech-Layoffs-Analysis) | An interactive Power BI dashboard analyzing global tech layoffs by year, company, industry, country, and funding stage to identify trends and generate business insights. |
+| [**Nepal-Flood-Weather-Analysis-Next-Day-River-Discharge-Prediction**](https://github.com/Pramatha2002/Nepal-Flood-Weather-Analysis-Next-Day-River-Discharge-Prediction) | Next-day river discharge prediction for Nepal using weather data and machine learning |
 ---
 
