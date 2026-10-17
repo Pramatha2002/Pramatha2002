@@ -29,6 +29,7 @@ I'm **Pramatha M C**, an aspiring **Data Analyst** with a biotechnology and bioi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramatha-m-c)
 [![Email](https://img.shields.io/badge/Email-1B5E7B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcpramatha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://pramatha2002.github.io)
 
 </div>
 
